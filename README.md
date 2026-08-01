@@ -43,7 +43,7 @@
         <td width="50%" valign="top">
             <h2 align="center"> 🏆 LeetCode Achievements </h2>
             <p align="center">
-                    <img src="https://leetcard.jacoblin.cool/vanshthakur005?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
+                    <img src="https://leetcard.jacoblin.cool/pekkolayege?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 <div align="center">
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2026/2026-annual.png" width="70" title="submitted code on 300+ distinct days in 2026"><img width="10"/>
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2025/2025-annual.gif" width="70" title="submitted code on 300+ distinct days in 2025"><img width="10"/>
@@ -59,21 +59,6 @@
     </tr>
 </table>
 
-### 🛠️ Kullandığım Teknolojiler
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="html" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="sql" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-</p>
-
----
 
 ### 📊 GitHub İstatistiklerim
 
