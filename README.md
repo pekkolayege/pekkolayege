@@ -66,7 +66,7 @@
 
 <div align="center">
 
-<img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=pekkolayege&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" />  <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.koyeb.app?user=singhal-amit&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> 
+<img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=pekkolayege&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" />  <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.koyeb.app?user=pekkolayege&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> 
 
 
 </div>
