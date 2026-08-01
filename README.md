@@ -13,7 +13,7 @@
 - 🔭 Şu anda web tabanlı projeler ve backend geliştirme üzerine çalışıyorum
 - 🌱 Yeni teknolojiler öğrenmeye ve kendimi geliştirmeye devam ediyorum
 - 💬 Python, PHP, Laravel ve JavaScript hakkında benimle iletişime geçebilirsiniz
-- 📫 Bana ulaşmak için: **[email adresiniz]**
+- 📫 Bana ulaşmak için: **info@egepekkolay.com.tr**
 - ⚡ İlginç gerçek: Kod yazmayı ve problem çözmeyi seviyorum!
 
 ---
