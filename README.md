@@ -41,7 +41,7 @@
                     <a href="https://www.docker.com/" target="_blank"><img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40" alt="dockerlogo" width="40" /></a>
         </td>
         <td width="50%" valign="top">
-            <h2 align="center"> 🏆 LeetCode Achievements </h2>
+            <h2 align="center"> 🏆 LeetCode Başarıları </h2>
             <p align="center">
                     <img src="https://leetcard.jacoblin.cool/pekkolayege?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 <div align="center">
@@ -51,7 +51,7 @@
                     <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2023/2023-annual.gif" width="70" title="submitted code on 300+ distinct days in 2023">
                 </div>
             </p>
-            <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
+            <h2 align="center"> 🎵 Şu anda dinliyorum 🎵 </h2>
             <div align="center" valign="bottom">
                 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">
             </div>
