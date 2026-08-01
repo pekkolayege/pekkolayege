@@ -53,7 +53,7 @@
             </p>
             <h2 align="center"> 🎵 Şu anda dinliyorum 🎵 </h2>
             <div align="center" valign="bottom">
-                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">
+                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=eqgag5ro1qrvvijyqot5h08f4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="SpotifyCard" width="80%">
             </div>
         </td>
     </tr>
