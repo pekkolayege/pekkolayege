@@ -7,16 +7,57 @@
 </p>
 
 ---
+<!-- Skills & Leetcode -->
 
-### 🚀 Hakkımda
-
-- 🔭 Şu anda web tabanlı projeler ve backend geliştirme üzerine çalışıyorum
-- 🌱 Yeni teknolojiler öğrenmeye ve kendimi geliştirmeye devam ediyorum
-- 💬 Python, PHP, Laravel ve JavaScript hakkında benimle iletişime geçebilirsiniz
-- 📫 Bana ulaşmak için: **info@egepekkolay.com.tr**
-- ⚡ İlginç gerçek: Kod yazmayı ve problem çözmeyi seviyorum!
-
----
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <h2 align="center"> 💻 My Skills </h2>
+                <h3>- Programming Languages</h3>
+                    <a href="https://www.python.org/" target="_blank"><img title="Python" src="https://skillicons.dev/icons?i=python" height="40" alt="pythonlogo" width="40" /></a>
+                    <a href="https://cplusplus.com/" target="_blank"><img title="C++" src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpluspluslogo" width="40" /></a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascriptlogo" width="40" /></a>
+                    <a href="https://html.com/" target="_blank"><img title="HTML" src="https://skillicons.dev/icons?i=html" height="40" alt="html5logo" width="40" /></a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img title="CSS" src="https://skillicons.dev/icons?i=css" height="40" alt="css3logo" width="40" /></a>
+                    <a href="https://git-scm.com/" target="_blank"><img title="Git" src="https://skillicons.dev/icons?i=git" height="40" alt="gitlogo" width="40" /></a>
+                    <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img title="Markdown" src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdownlogo" width="40" /></a>
+                    <a href="https://www.php.net/" target="_blank"><img title="PHP" src="https://skillicons.dev/icons?i=php" height="40" alt="phplogo" width="40" /></a>
+                    <a href="https://www.oracle.com/java/" target="_blank"><img title="Java" src="https://skillicons.dev/icons?i=java" height="40" alt="javalogo" width="40" /></a>
+                    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img title="C" src="https://skillicons.dev/icons?i=c" height="40" alt="clogo" width="40" /></a>
+                    <a href="https://www.mysql.com/" target="_blank"><img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysqllogo" width="40" /></a>
+                <h3>- Frameworks & Libraries</h3>
+                    <a href="https://nodejs.org/" target="_blank"><img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejslogo" width="40" /></a>
+                    <a href="https://expressjs.com/" target="_blank"><img title="Express.js" src="https://skillicons.dev/icons?i=express" height="40" alt="expresslogo" width="40" /></a>
+                    <a href="https://getbootstrap.com/" target="_blank"><img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstraplogo" width="40" /></a>
+                    <a href="https://jquery.com/" target="_blank"><img title="jQuery" src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquerylogo" width="40" /></a>
+                    <a href="https://reactjs.org/" target="_blank"><img title="React" src="https://skillicons.dev/icons?i=react" height="40" alt="reactlogo" width="40" /></a>
+                <h3>- Database & Cloud Hosting</h3>
+                    <a href="https://www.mongodb.com/" target="_blank"><img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodblogo" width="40" /></a>
+                    <a href="https://www.postgresql.org/" target="_blank"><img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresqllogo" width="40" /></a>
+                <h3>- Software & Tools</h3>
+                    <a href="https://code.visualstudio.com/" target="_blank"><img title="VS Code" src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscodelogo" width="40" /></a>
+                    <a href="https://www.postman.com/" target="_blank"><img title="Postman" src="https://skillicons.dev/icons?i=postman" height="40" alt="postmanlogo" width="40" /></a>
+                    <a href="https://github.com/" target="_blank"><img title="GitHub" src="https://skillicons.dev/icons?i=github" height="40" alt="githublogo" width="40" /></a>
+                    <a href="https://www.docker.com/" target="_blank"><img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40" alt="dockerlogo" width="40" /></a>
+        </td>
+        <td width="50%" valign="top">
+            <h2 align="center"> 🏆 LeetCode Achievements </h2>
+            <p align="center">
+                    <img src="https://leetcard.jacoblin.cool/vanshthakur005?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
+                <div align="center">
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2026/2026-annual.png" width="70" title="submitted code on 300+ distinct days in 2026"><img width="10"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2025/2025-annual.gif" width="70" title="submitted code on 300+ distinct days in 2025"><img width="10"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2024/2024-annual.gif" width="70" title="submitted code on 300+ distinct days in 2024"><img width="10"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2023/2023-annual.gif" width="70" title="submitted code on 300+ distinct days in 2023">
+                </div>
+            </p>
+            <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
+            <div align="center" valign="bottom">
+                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">
+            </div>
+        </td>
+    </tr>
+</table>
 
 ### 🛠️ Kullandığım Teknolojiler
 
