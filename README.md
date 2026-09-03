@@ -21,8 +21,6 @@
                     <a href="https://git-scm.com/" target="_blank"><img title="Git" src="https://skillicons.dev/icons?i=git" height="40" alt="gitlogo" width="40" /></a>
                     <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img title="Markdown" src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdownlogo" width="40" /></a>
                     <a href="https://www.php.net/" target="_blank"><img title="PHP" src="https://skillicons.dev/icons?i=php" height="40" alt="phplogo" width="40" /></a>
-                    <a href="https://www.oracle.com/java/" target="_blank"><img title="Java" src="https://skillicons.dev/icons?i=java" height="40" alt="javalogo" width="40" /></a>
-                    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img title="C" src="https://skillicons.dev/icons?i=c" height="40" alt="clogo" width="40" /></a>
                     <a href="https://www.mysql.com/" target="_blank"><img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysqllogo" width="40" /></a>
                 <h3>- Frameworks & Libraries</h3>
                     <a href="https://nodejs.org/" target="_blank"><img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejslogo" width="40" /></a>
