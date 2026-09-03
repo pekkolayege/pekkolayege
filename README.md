@@ -1,6 +1,6 @@
 
 <h1 align="center">Merhaba, Ben Ege👋</h1>
-<h3 align="center">Yazılım Geliştirici | Full Stack Developer</h3>
+<h3 align="center">Yazılım Geliştirici</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Python+%7C+PHP+%7C+Laravel;S%C3%BCrekli+%C3%B6%C4%9Freniyorum+%F0%9F%9A%80" alt="Typing SVG" />
