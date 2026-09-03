@@ -15,7 +15,6 @@
             <h2 align="center"> 💻 My Skills </h2>
                 <h3>- Programming Languages</h3>
                     <a href="https://www.python.org/" target="_blank"><img title="Python" src="https://skillicons.dev/icons?i=python" height="40" alt="pythonlogo" width="40" /></a>
-                    <a href="https://cplusplus.com/" target="_blank"><img title="C++" src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpluspluslogo" width="40" /></a>
                     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascriptlogo" width="40" /></a>
                     <a href="https://html.com/" target="_blank"><img title="HTML" src="https://skillicons.dev/icons?i=html" height="40" alt="html5logo" width="40" /></a>
                     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img title="CSS" src="https://skillicons.dev/icons?i=css" height="40" alt="css3logo" width="40" /></a>
