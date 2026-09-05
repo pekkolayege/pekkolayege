@@ -42,9 +42,9 @@
             <p align="center">
                     <img src="https://leetcard.jacoblin.cool/pekkolayege?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
                 <div align="center">
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2026/2026-annual.png" width="70" title="submitted code on 300+ distinct days in 2026"><img width="10"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2025/2025-annual.gif" width="70" title="submitted code on 300+ distinct days in 2025"><img width="10"/>
-                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2024/2024-annual.gif" width="70" title="submitted code on 300+ distinct days in 2024"><img width="10"/>
+                    <img src="https://github.com/pekkolayege/leetcode-success/blob/main/2026-annual.png" width="70" title="submitted code on 300+ distinct days in 2026"><img width="10"/>
+                    <img src="https://github.com/pekkolayege/leetcode-success/blob/main/2025-annual.gif" width="70" title="submitted code on 300+ distinct days in 2025"><img width="10"/>
+                    <img src="https://github.com/pekkolayege/leetcode-success/blob/main/2024-annual.gif" width="70" title="submitted code on 300+ distinct days in 2024"><img width="10"/>
                     <img src="https://github.com/pekkolayege/leetcode-success/blob/main/2023-annual.gif" width="70" title="submitted code on 300+ distinct days in 2023">
                 </div>
             </p>
