@@ -75,7 +75,7 @@
 ### 🌐 Sosyal Medya & İletişim
 
 <p align="left">
-  <a href="https://linkedin.com/in/pekkolayege" target="_blank">
+  <a href="https://linkedin.com/in/egepekkolay" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="mailto:info@egepekkolay.com.tr" target="_blank">
