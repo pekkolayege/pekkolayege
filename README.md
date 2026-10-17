@@ -88,7 +88,7 @@
 ---
 
 <p align="center">
-  <img src="https://views-counter.vercel.app/badge?pageId=pekkolayege%2Fpekkolayege&amp;label=PROFILE%20VIEWS&amp;leftColor=171717&amp;rightColor=8A2BE2" alt="Profile Views" />
+  <img src="https://gitviews.com/user/pekkolayege.svg?base=631&amp;style=for-the-badge&amp;label=PROFILE%20VIEWS&amp;label-color=171717&amp;color=8A2BE2" alt="Profile Views" />
 </p>
 
 <p align="center"><i>⭐️ Profilimi ziyaret ettiğiniz için teşekkürler!</i></p>
