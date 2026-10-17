@@ -88,7 +88,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pekkolayege" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=pekkolayege&amp;label=Profile%20Views&amp;color=blueviolet&amp;style=for-the-badge&amp;cache=20261017" alt="Profile Views" />
 </p>
 
 <p align="center"><i>⭐️ Profilimi ziyaret ettiğiniz için teşekkürler!</i></p>
