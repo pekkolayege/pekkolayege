@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/pekkolayege/pekkolayege/main/plugins/readme.svg" alt="Ege Pekkolay — design → developer → software" width="100%">
-<h1 align="center">Merhaba, Ben Ege👋</h1>
 <h3 align="center">Yazılım Geliştirici</h3>
 
 <p align="center">
